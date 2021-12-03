@@ -1,4 +1,4 @@
-package Singleton;
+package Creation_mode.Singleton;
 
 /**
  * @ClassName SingletonLazy

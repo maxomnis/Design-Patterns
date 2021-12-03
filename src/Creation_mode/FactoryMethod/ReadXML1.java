@@ -1,4 +1,4 @@
-package FactoryMethod;
+package Creation_mode.FactoryMethod;
 
 import javax.xml.parsers.*;
 import org.w3c.dom.*;

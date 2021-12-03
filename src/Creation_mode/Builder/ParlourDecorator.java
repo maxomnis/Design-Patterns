@@ -1,8 +1,7 @@
-package Builder;
+package Creation_mode.Builder;
 
 import java.awt.*;
 import javax.swing.*;
-import javax.xml.parsers.DocumentBuilderFactory;
 
 /**
  * 用建造者（Builder）模式描述客厅装修。

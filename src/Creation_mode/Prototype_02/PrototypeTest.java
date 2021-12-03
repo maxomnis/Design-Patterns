@@ -1,4 +1,4 @@
-package Prototype_02;
+package Creation_mode.Prototype_02;
 
 /**
  * @ClassName PrototypeTest

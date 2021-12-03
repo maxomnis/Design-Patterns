@@ -1,4 +1,4 @@
-package AbstractFactory;
+package Creation_mode.AbstractFactory;
 
 import javax.swing.*;
 import java.awt.*;

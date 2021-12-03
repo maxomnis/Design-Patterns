@@ -1,4 +1,4 @@
-package FactoryMethod;
+package Creation_mode.FactoryMethod;
 
 /**
  * @ClassName FactoryFunction
